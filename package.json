@@ -1,6 +1,6 @@
 {
   "name": "@forivall/promise-memoize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Memoize promise-returning functions. Includes cache expire and prefetch.",
   "keywords": [
     "promise",
