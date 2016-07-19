@@ -1,5 +1,5 @@
 {
-  "name": "promise-memoize",
+  "name": "@forivall/promise-memoize",
   "version": "1.0.0",
   "description": "Memoize promise-returning functions. Includes cache expire and prefetch.",
   "keywords": [
@@ -7,7 +7,7 @@
     "memoize",
     "cache"
   ],
-  "repository": "nodeca/promise-memoize",
+  "repository": "forivall/promise-memoize",
   "license": "MIT",
   "files": [
     "index.js",
